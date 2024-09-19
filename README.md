@@ -5,3 +5,5 @@ I'm one of the main technological innovators for **easyJOB**, a software solutio
 - **Technological Innovation**: Spearheading the development and integration of new technologies into easyJOB.
 - **Software Development**: Specializing in creating scalable, user-friendly software solutions.
 - **Team Leadership**: Guiding a talented team of developers to achieve our ambitious goals.
+
+**100% AI generated btw* 
